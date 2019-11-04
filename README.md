@@ -39,7 +39,7 @@
     </p>
 </ol>
     
-<h2> Thành viên nóm </h2>
+<h2> Thành viên nhóm </h2>
     <p>1.Nguyễn Sỹ Tùng</p>
     <p>2.Nguyễn Văn Phong</p>
     <p>3.Nguyễn Đăng Quân.</p>
