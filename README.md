@@ -33,17 +33,17 @@
         <li> Xem địa điểm đã đặt</li>
         
     </ol>
-    <li> <h4>Quản trị trang Web</h4></li>
-    <ol>
+    <h4>Quản trị trang Web</h4>
+    <p>
         <li>Quản lý dữ liệu khách hàng (tài khoản).</li>
         <li>Quản lý đơn hàng đã đặt của khách hàng.</li>
         <li>Nhập xuất dữ liệu,bài viết trên Web.</li>
         <li>Trả lời,tư vấn khách hàng qua dịch vụ chat miễn phí trên Web.</li>
-    </ol>
+    </p>
 </ol>
     
 <h2> Thành viên nóm </h2>
-    <li>1.Nguyễn Sỹ Tùng</li>
-    <li>2.Nguyễn Văn Phong</li>
-    <li>3.Nguyễn Đăng Quân.</li>
+    <p>1.Nguyễn Sỹ Tùng</p>
+    <p>2.Nguyễn Văn Phong</p>
+    <p>3.Nguyễn Đăng Quân.</p>
     
