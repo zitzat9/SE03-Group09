@@ -25,14 +25,11 @@
 <ol>
     <li>
     <h4> Hệ thống pugin trên các trình duyệt</h4></li>
-    <ol>
         <li> Hiển thị danh sách ,địa điểm du lịch trong và ngoài nước.</li>
         <li> Tính năng :Xem giá,xem review về các địa điểm du lịch quan tâm.</li>
         <li> Hiển thị các lưu ý ,chuẩn bị khi đi du lịch.</li>
         <li> Đặt chỗ,mua vé theo tuor</li>
         <li> Xem địa điểm đã đặt</li>
-        
-    </ol>
     <h4>Quản trị trang Web</h4>
     <p>
         <li>Quản lý dữ liệu khách hàng (tài khoản).</li>
