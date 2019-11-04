@@ -3,7 +3,7 @@
 <h2> Mục đích dự án </h2>
 <ol>
     <li><h4> Mục đích </h4>
-    <p> Hiện nay xã hội ngày càng phát triển,nhu cầu trong cuộc sống mỗi người đều tăng nhất là về mặt vui chơi ,giải trí sau những ngày làm việc căng thẳng.     phát triển của công nghệ hiện nay thì việc tạo nên một ứng dụng để quản lí việc xuất nhập hàng là điều cần thiết.</p>
+    <p> Hiện nay xã hội ngày càng phát triển,nhu cầu trong cuộc sống mỗi người đều tăng nhất là về mặt vui chơi ,giải trí sau những ngày làm việc căng thẳng.</p>
     <p>Nhận thấy vấn đề đó,chúng em đã đặt ra mục tiêu dự án tạo một Website về lĩnh vực du lịch,nhằm cung cấp cho mọi người một cách nhìn chân thật,gần gũi nhất về lĩnh vực này</p>.
     </li>
     <li>
