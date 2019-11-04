@@ -43,7 +43,7 @@
 </ol>
     
 <h2> Thành viên nóm </h2>
-    <li>Nguyễn Sỹ Tùng</li>
-    <li>Nguyễn Văn Phong</li>
-    <li>Nguyễn Đăng Quân.</li>
+    <li>1.Nguyễn Sỹ Tùng</li>
+    <li>2.Nguyễn Văn Phong</li>
+    <li>3.Nguyễn Đăng Quân.</li>
     
