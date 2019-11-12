@@ -26,21 +26,17 @@
     <li>
     <h4> Hệ thống pugin trên các trình duyệt</h4></li>
         <li> Hiển thị danh sách ,địa điểm du lịch trong và ngoài nước.</li>
-        <li> Tính năng :Xem giá,xem review về các địa điểm du lịch quan tâm.</li>
+        <li> Đăng bài review về những địa điểm du lịch bạn đã từng đi.</li>
         <li> Hiển thị các lưu ý ,chuẩn bị khi đi du lịch.</li>
-        <li> Đặt chỗ,mua vé theo tuor</li>
-        <li> Xem địa điểm đã đặt</li>
     <h4>Quản trị trang Web</h4>
     <p>
         <li>Quản lý dữ liệu khách hàng (tài khoản).</li>
-        <li>Quản lý đơn hàng đã đặt của khách hàng.</li>
-        <li>Nhập xuất dữ liệu,bài viết trên Web.</li>
-        <li>Trả lời,tư vấn khách hàng qua dịch vụ chat miễn phí trên Web.</li>
+        <li>Quản lý các bài đăng.</li>
     </p>
 </ol>
     
 <h2> Thành viên nhóm </h2>
-    <p>1.Nguyễn Sỹ Tùng</p>
+    <p>1.Nguyễn Sỹ Tùng(TN)</p>
     <p>2.Nguyễn Văn Phong</p>
     <p>3.Nguyễn Đăng Quân.</p>
     
