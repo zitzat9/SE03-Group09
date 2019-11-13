@@ -22,20 +22,12 @@
     <li>PHP, Lavarel</li>
     </br>
 <h2> Chức năng </h2>
-<ol>
     <li>
     <h4> Hệ thống pugin trên các trình duyệt</h4></li>
-    <ol>
         <li> Tính năng : đăng nhập ,viết bài,đánh giá bài viêt</li>
         <li> Hiển thị bài viết,hình ảnh của tác giả.</li>
-        
-    </ol>
-    <li> <h4>Quản trị bài viết,nội dung </h4></li>
-    <ol>
         <li>Quản lý dữ liệu khách hàng (tài khoản).</li>
         <li>Quản lý bài viết của khách hàng.</li>
-    </ol>
-</ol>
     
 <h2> Thành viên nóm </h2>
     <li>Nguyễn Sỹ Tùng(TN)</li>
