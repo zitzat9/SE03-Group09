@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/tintuc', function () {
+    return view('tin tức');
+});
+Route::get('/', function () {
+    return view('welcome');
+});
