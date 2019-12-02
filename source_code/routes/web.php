@@ -19,4 +19,4 @@ Route::get('/tintuc', function () {
 });
 Route::get('/', function () {
     return view('welcome');
-});
+}); 
