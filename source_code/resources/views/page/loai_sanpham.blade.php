@@ -92,12 +92,12 @@
 						<div class="row">{{$sp_khac->links()}}</div>
 						<div class="space40">&nbsp;</div>
 						
-					</div> <!-- .beta-products-list -->
+					</div> 
 				</div>
-			</div> <!-- end section with sidebar and main content -->
+			</div> 
 
 
-		</div> <!-- .main-content -->
-	</div> <!-- #content -->
-</div> <!-- .container -->
+		</div> 
+	</div> 
+</div> 
 @endsection
