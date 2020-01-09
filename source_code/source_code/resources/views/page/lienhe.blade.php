@@ -3,11 +3,11 @@
 	<div class="inner-header">
 		<div class="container">
 			<div class="pull-left">
-				<h6 class="inner-title">Contacts</h6>
+				<h6 class="inner-title">Liên Hệ</h6>
 			</div>
 			<div class="pull-right">
 				<div class="beta-breadcrumb font-large">
-					<a href="index.html">Home</a> / <span>Contacts</span>
+					<a href="index.html">Trang Chủ</a> / <span>Liên Hệ</span>
 				</div>
 			</div>
 			<div class="clearfix"></div>
@@ -23,7 +23,7 @@
 			<div class="space50">&nbsp;</div>
 			<div class="row">
 				<div class="col-sm-8">
-					<h2>Contact Form</h2>
+					<h2>Liên Hệ </h2>
 					<div class="space20">&nbsp;</div>
 					<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit ani m id est laborum.</p>
 					<div class="space20">&nbsp;</div>
@@ -41,33 +41,33 @@
 							<textarea name="your-message" placeholder="Your Message"></textarea>
 						</div>
 						<div class="form-block">
-							<button type="submit" class="beta-btn primary">Send Message <i class="fa fa-chevron-right"></i></button>
+							<button type="submit" class="beta-btn primary">Gửi Bài Viết  <i class="fa fa-chevron-right"></i></button>
 						</div>
 					</form>
 				</div>
 				<div class="col-sm-4">
-					<h2>Contact Information</h2>
+					<h2>Thông Tin Liên Hệ</h2>
 					<div class="space20">&nbsp;</div>
 
-					<h6 class="contact-title">Address</h6>
+					<h6 class="contact-title">Địa Chỉ</h6>
 					<p>
-						Suite 127 / 267 – 277 Brussel St,<br>
-						62 Croydon, NYC <br>
-						Newyork
+						336 Nguyễn Trãi <Br>
+						Thanh Xuân <Br>
+						Hà Nội<Br>
 					</p>
 					<div class="space20">&nbsp;</div>
-					<h6 class="contact-title">Business Enquiries</h6>
+					<h6 class="contact-title">Thắc Mắc Liên Hệ </h6>
 					<p>
-						Doloremque laudantium, totam rem aperiam, <br>
-						inventore veritatio beatae. <br>
-						<a href="mailto:biz@betadesign.com">biz@betadesign.com</a>
+						Nguyễn Sỹ Tùng  <br>
+						Luôn tư vấn 12/24 trừ thứ 7 và chủ nhật <br>
+						<a href="mailto:biz@betadesign.com">nguyensytung@gmail.com</a>
 					</p>
 					<div class="space20">&nbsp;</div>
-					<h6 class="contact-title">Employment</h6>
+					<h6 class="contact-title">Việc Làm </h6>
 					<p>
-						We’re always looking for talented persons to <br>
-						join our team. <br>
-						<a href="hr@betadesign.com">hr@betadesign.com</a>
+						Chúng Tôi Luôn Chào Đón Bạn <br>
+						Liên Hệ  Nguyễn Đăng Quân  <br>
+						<a href="hr@betadesign.com">nguyendangquan@gmail.com</a>
 					</p>
 				</div>
 			</div>
