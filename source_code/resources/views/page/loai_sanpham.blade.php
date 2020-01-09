@@ -3,7 +3,7 @@
 <div class="inner-header">
 		<div class="container">
 			<div class="pull-left">
-				<h6 class="inner-title">Sản phẩm {{$loap_sp->name}}</h6>
+				<h6 class="inner-title">Tour {{$loap_sp->name}}</h6>
 			</div>
 			<div class="pull-right">
 				<div class="beta-breadcrumb font-large">
@@ -92,12 +92,12 @@
 						<div class="row">{{$sp_khac->links()}}</div>
 						<div class="space40">&nbsp;</div>
 						
-					</div> 
+					</div> <!-- .beta-products-list -->
 				</div>
-			</div> 
+			</div> <!-- end section with sidebar and main content -->
 
 
-		</div> 
-	</div> 
-</div> 
+		</div> <!-- .main-content -->
+	</div> <!-- #content -->
+</div> <!-- .container -->
 @endsection
