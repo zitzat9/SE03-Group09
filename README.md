@@ -4,7 +4,7 @@
 <ol>
     <li><h4> Mục đích </h4>
     <p> Hiện nay xã hội ngày càng phát triển,nhu cầu về du lịch,giải trí là điều không thể thiếu trong cuộc sống của mỗi chúng ta.</p>
-    <p> Để đáp ứng nhu cầu đó,chúng em đã tạo ra một website giúp mọi người có thể cập,nhật,chia sẻ những địa điểm du lịch thú vị nhất <em>
+    <p> Để đáp ứng nhu cầu đó,chúng em đã tạo ra một website giúp mọi người có thể tìm kiếm các địa điểm du lịch ở các nơi trên thế giới một cách nhanh nhất <em>
     </li>
     <li>
         <h4> Mục tiêu muốn đạt được </h4>
@@ -24,13 +24,15 @@
 <h2> Chức năng </h2>
     <li>
     <h4> Hệ thống pugin trên các trình duyệt</h4></li>
-        <li> Tính năng : đăng nhập ,viết bài,đánh giá bài viêt</li>
+        <li> Tính năng : đăng nhập ,viết bài dành cho admin,nhận xét đánh giá bài biết</li>
         <li> Hiển thị bài viết,hình ảnh của tác giả.</li>
-        <li>Quản lý dữ liệu khách hàng (tài khoản).</li>
-        <li>Quản lý bài viết của khách hàng.</li>
+        <li>Quản lý bài viết,tài khoản.</li>
     
 <h2> Thành viên nóm </h2>
     <li>Nguyễn Sỹ Tùng(TN)</li>
     <li>Nguyễn Văn Phong</li>
     <li>Nguyễn Đăng Quân</li>
+ <h2>Note</h2>
+ <p>Nếu pull code về không chạy được,người dùng hãy tải file .rar rồi giải nén</p>  
+  
     
