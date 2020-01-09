@@ -3,6 +3,11 @@
 	<html lang="en">
     <head>
         <!-- Required meta tags -->
+      @extends('master')
+@section('content')
+	<html lang="en">
+    <head>
+        <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="icon" href="style/img/favicon.png" type="image/png">
