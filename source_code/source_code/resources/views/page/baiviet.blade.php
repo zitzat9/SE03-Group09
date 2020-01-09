@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="icon" href="style/img/favicon.png" type="image/png">
-        <title>Nexus SaaS</title>
+        <title>Bài viết</title>
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="style/css/bootstrap.css">
         <link rel="stylesheet" href="style/vendors/linericon/style.css">
@@ -51,7 +51,7 @@
                                 <div class="categories_text">
                                     <a href="blog-details.html"><h5>Vui chơi</h5></a>
                                     <div class="border_line"></div>
-                                    <p>Enjoy your social life together</p>
+                                    <p>Chúng tôi mang đến cho bạn môi trường giải trí thân thiện nhất</p>
                                 </div>
                             </div>
                         </div>
