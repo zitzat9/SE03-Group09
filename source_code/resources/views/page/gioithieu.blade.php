@@ -88,7 +88,7 @@
 						<img style="height: 250px;width: 250px;" class="pull-left" src="source/image/slide/7.jpg" alt="">
 					
 						<div class="media-body beta-person-body">
-							<h5>Nguyễn Văn Phong</h5>
+							<h5>Nguyễn Đăng Quân</h5>
 							<p class="font-large">Founder</p>
 							<p>Người có kĩ năng cực kì cao, đã từng việc tại Facebook, google</p>
 						
